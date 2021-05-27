@@ -16,8 +16,8 @@ This project is released under the BSD 3-Clause License. This is research level 
 
 The following dependencies that are **not in quicklisp** are required to run this package:
 
-- lbfgs-wrapper(https://anonymous.4open.science/r/lbfgs-wrapper-B71D) (BSD 3-clause license)
-- dag-search(https://anonymous.4open.science/r/dag-search-ED68) (BSD 3-clause license)
+- [lbfgs-wrapper](https://anonymous.4open.science/r/lbfgs-wrapper-B71D) (BSD 3-clause license)
+- [dag-search](https://anonymous.4open.science/r/dag-search-ED68) (BSD 3-clause license)
 - [liblbfgs](https://github.com/chokkan/liblbfgs) (MIT license)
 - [mgl-mat](https://github.com/melisgl/mgl-mat) (MIT license)
 
